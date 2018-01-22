@@ -5,5 +5,10 @@
   >### 1.3[Logistic Regression with a Neural Network mindset](https://github.com/Spr1nt0a0/DeepLearning-coursera/blob/master/Neural%20Networks%20and%20Deep%20Learning/Logistic%20Regression%20with%20a%20Neural%20Network%20mindset.ipynb)
   >### 1.4[Planar data classification with one hidden layer](https://github.com/Spr1nt0a0/DeepLearning-coursera/blob/master/Neural%20Networks%20and%20Deep%20Learning/Planar%20data%20classification%20with%20one%20hidden%20layer.ipynb)
   ## 2.改善深层神经网络
+  >### 2.1
+  >### 2.2
+  >### 2.3
+  >### 2.4
+  >### 2.5
   ## 3.结构化机器学习项目
   ## 4.卷积神经网络
