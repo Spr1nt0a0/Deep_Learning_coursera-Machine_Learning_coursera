@@ -19,4 +19,4 @@
 
 
 # MachineLearning-coursera
-## 1.[linear regression]()
+## 1.[linear regression](https://github.com/Spr1nt0a0/DeepLearning-MachineLearning-coursera/tree/master/linear%20regression)
