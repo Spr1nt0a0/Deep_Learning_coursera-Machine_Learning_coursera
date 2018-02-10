@@ -24,3 +24,4 @@
 ## 3.[neural network](https://github.com/Spr1nt0a0/DeepLearning-MachineLearning-coursera/tree/master/neural%20network)
 ## 4.[NN back propagation](https://github.com/Spr1nt0a0/DeepLearning-MachineLearning-coursera/tree/master/NN%20back%20propagation)
 ## 5.[bias vs variance](https://github.com/Spr1nt0a0/DeepLearning-MachineLearning-coursera/tree/master/bias%20vs%20variance)
+## 6.[SVM](https://github.com/Spr1nt0a0/DeepLearning-MachineLearning-coursera/tree/master/SVM)
