@@ -16,7 +16,8 @@
   >### 4.2[Convolution model - Step by Step - v1](https://github.com/Spr1nt0a0/DeepLearning-coursera/blob/master/Convolutional%20Neural%20Networks/Convolution%20model%20-%20Step%20by%20Step%20-%20v1.ipynb)
   >### 4.3[Keras - Tutorial - Happy House v1](https://github.com/Spr1nt0a0/DeepLearning-coursera/blob/master/Convolutional%20Neural%20Networks/Keras%20-%20Tutorial%20-%20Happy%20House%20v1.ipynb)
   >### 4.4[Residual Networks - v1](https://github.com/Spr1nt0a0/DeepLearning-coursera/blob/master/Convolutional%20Neural%20Networks/Residual%20Networks%20-%20v1.ipynb)
-
+  ## 5.[序列模型](https://github.com/Spr1nt0a0/DeepLearning-MachineLearning-coursera/tree/master/Sequence%20Models)
+  >### 5.1[Building a Recurrent Neural Network - Step by Step - v1](https://github.com/Spr1nt0a0/DeepLearning-MachineLearning-coursera/blob/master/Sequence%20Models/Building%20a%20Recurrent%20Neural%20Network%20-%20Step%20by%20Step%20-%20v1.ipynb)
 
 # MachineLearning-coursera
 ## 1.[linear regression](https://github.com/Spr1nt0a0/DeepLearning-MachineLearning-coursera/tree/master/linear%20regression)
