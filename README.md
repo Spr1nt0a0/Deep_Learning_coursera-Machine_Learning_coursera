@@ -18,6 +18,7 @@
   >### 4.4[Residual Networks - v1](https://github.com/Spr1nt0a0/DeepLearning-coursera/blob/master/Convolutional%20Neural%20Networks/Residual%20Networks%20-%20v1.ipynb)
   ## 5.[序列模型](https://github.com/Spr1nt0a0/DeepLearning-MachineLearning-coursera/tree/master/Sequence%20Models)
   >### 5.1[Building a Recurrent Neural Network - Step by Step - v1](https://github.com/Spr1nt0a0/DeepLearning-MachineLearning-coursera/blob/master/Sequence%20Models/Building%20a%20Recurrent%20Neural%20Network%20-%20Step%20by%20Step%20-%20v1.ipynb)
+  >### 5.2[Dinosaurus Island - Character level language model final - v3](https://github.com/Spr1nt0a0/DeepLearning-MachineLearning-coursera/blob/master/Sequence%20Models/Dinosaurus%20Island%20--%20Character%20level%20language%20model%20final%20-%20v3.ipynb)
 
 # MachineLearning-coursera
 ## 1.[linear regression](https://github.com/Spr1nt0a0/DeepLearning-MachineLearning-coursera/tree/master/linear%20regression)
