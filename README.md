@@ -20,6 +20,7 @@
   >### 5.1[Building a Recurrent Neural Network - Step by Step - v1](https://github.com/Spr1nt0a0/DeepLearning-MachineLearning-coursera/blob/master/Sequence%20Models/Building%20a%20Recurrent%20Neural%20Network%20-%20Step%20by%20Step%20-%20v1.ipynb)
   >### 5.2[Dinosaurus Island - Character level language model final - v3](https://github.com/Spr1nt0a0/DeepLearning-MachineLearning-coursera/blob/master/Sequence%20Models/Dinosaurus%20Island%20--%20Character%20level%20language%20model%20final%20-%20v3.ipynb)
   >### 5.3[Jazz improvisation with LSTM - v1](https://github.com/Spr1nt0a0/DeepLearning-MachineLearning-coursera/blob/master/Sequence%20Models/Jazz%20improvisation%20with%20LSTM%20-%20v1.ipynb)
+  >### 5.4[Operations on word vectors - v2](https://github.com/Spr1nt0a0/DeepLearning-MachineLearning-coursera/blob/master/Sequence%20Models/Operations%20on%20word%20vectors%20-%20v2.ipynb)
 
 # MachineLearning-coursera
 ## 1.[linear regression](https://github.com/Spr1nt0a0/DeepLearning-MachineLearning-coursera/tree/master/linear%20regression)
