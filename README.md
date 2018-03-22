@@ -22,6 +22,8 @@
   >### 5.3[Jazz improvisation with LSTM - v1](https://github.com/Spr1nt0a0/DeepLearning-MachineLearning-coursera/blob/master/Sequence%20Models/Jazz%20improvisation%20with%20LSTM%20-%20v1.ipynb)
   >### 5.4[Operations on word vectors - v2](https://github.com/Spr1nt0a0/DeepLearning-MachineLearning-coursera/blob/master/Sequence%20Models/Operations%20on%20word%20vectors%20-%20v2.ipynb)
   >### 5.5[Emojify - v2](https://github.com/Spr1nt0a0/DeepLearning-MachineLearning-coursera/blob/master/Sequence%20Models/Emojify%20-%20v2.ipynb)
+  >### 5.6[Neural machine translation with attention - v2](https://github.com/Spr1nt0a0/Deep_Learning_coursera-Machine_Learning_coursera/blob/master/Sequence%20Models/Neural%20machine%20translation%20with%20attention%20-%20v2.ipynb)
+  >### 5.7[Trigger word detection - v1](https://github.com/Spr1nt0a0/Deep_Learning_coursera-Machine_Learning_coursera/blob/master/Sequence%20Models/Trigger%20word%20detection%20-%20v1.ipynb)
 
 # MachineLearning-coursera
 ## 1.[linear regression](https://github.com/Spr1nt0a0/DeepLearning-MachineLearning-coursera/tree/master/linear%20regression)
